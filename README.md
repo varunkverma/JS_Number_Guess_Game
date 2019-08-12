@@ -1,4 +1,4 @@
-# JS_Number_Guess_Game
+# JS_Number_Guessing_Game
 A number guesser game developed using JavaScript and Skeleton cdn
 
 GAME FUNCTION:
